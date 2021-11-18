@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.5
+Name: picker
+Formal-Name: Picker
+App-ID: com.example.picker
+Version: 0.0.1
+Home-page: https://example.com/picker
+Author: Marcus Kok
+Author-email: mskok@ncsu.edu
+Summary: Python picker app
