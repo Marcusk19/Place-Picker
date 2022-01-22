@@ -1,4 +1,4 @@
-# Python-picker #
+# Place-Picker #
 A personal project using the Google places api and IpInfo to find restaurants nearby. <br />
 
 ## Structure ##
