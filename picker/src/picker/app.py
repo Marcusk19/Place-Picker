@@ -31,7 +31,7 @@ class Picker(toga.App):
         # placePicker.hello()
         self.main_window.info_dialog(
             placePicker.pickPlace(),
-            'I wuv Lisa!'
+            'Thank you!'
         )
         
 
