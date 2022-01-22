@@ -6,8 +6,6 @@ import time
 from picker import ipHandler
 from picker import config
 
-ip_info_token = "09adbd3b4440a4"
-
 def pickPlace():
     # declare an array of places to choose from
     all_places = []
